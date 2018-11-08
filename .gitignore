@@ -1,3 +1,4 @@
 /Contents/Resources/Documents/*
 !/Contents/Resources/Documents/.keep
 /Contents/Resources/*.dsidx
+*.tgz
