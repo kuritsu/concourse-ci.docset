@@ -1,4 +1,4 @@
-/Contents/Resources/Documents/*
-!/Contents/Resources/Documents/.keep
-/Contents/Resources/*.dsidx
+/concourse-ci.docset/Contents/Resources/Documents/*
+!/concourse-ci.docset/Contents/Resources/Documents/.keep
+/concourse-ci.docset/Contents/Resources/*.dsidx
 *.tgz
